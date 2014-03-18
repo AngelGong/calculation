@@ -39,7 +39,9 @@
 		        android:text="@string/clear"
 		        style="@style/numSize"
 		        android:background="@color/orange"
-		        android:layout_marginBottom="5dp"></Button>
+		        android:layout_marginBottom="5dp"
+		        android:layout_marginRight="3dp"
+		        android:layout_marginLeft="2dp"></Button>
 	        <Button
 		        android:layout_width="match_parent"
 		        android:layout_height="match_parent"
@@ -188,7 +190,9 @@
 			        android:text="@string/dot"
 			        style="@style/numSize"
 			        android:background="@color/orange"
-			        android:layout_marginBottom="5dp"></Button>
+			        android:layout_marginBottom="5dp"
+			        android:layout_marginRight="3dp"
+		        	android:layout_marginLeft="2dp"></Button>
 	            <Button
 			        android:layout_width="match_parent"
 			        android:layout_height="match_parent"
@@ -205,7 +209,8 @@
 			        style="@style/numSize"
 			        android:background="@color/orange"
 			        android:layout_marginBottom="5dp"
-			        android:layout_marginRight="3dp"></Button>
+			        android:layout_marginRight="3dp"
+			        android:layout_marginLeft="2dp"></Button>
 	            <Button
 			        android:layout_width="match_parent"
 			        android:layout_height="match_parent"
