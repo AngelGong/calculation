@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+	<color name="light_grey">#999</color>
+	<color name="orange">#FFC020</color>
+	<color name="my_blue">#40A0FF</color>
+	
+    <style name="customThemem" parent="@android:style/Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+    <style name="editBoxTheme" parent="@android:style/Theme">
+        <item name="android:background">@color/light_grey</item>
+    </style>
+    <style name="numSize" parent="@android:style/Theme">
+        <item name="android:textSize">24sp</item>
+    </style>
+</resources>
